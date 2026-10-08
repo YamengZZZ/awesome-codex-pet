@@ -37,7 +37,7 @@
     },
     "assignees": [],
     "createdAt": "2026-10-06T00:04:37Z",
-    "updatedAt": "2026-10-08T03:59:21Z",
+    "updatedAt": "2026-10-08T08:33:16Z",
     "closedAt": null,
     "comments": 4,
     "reactions": 0,
@@ -126,46 +126,6 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/239"
-  },
-  {
-    "number": 229,
-    "character": "楪祈",
-    "characterDetails": "楪祈",
-    "franchise": "罪恶王冠",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://bkimg.cdn.bcebos.com/pic/7dd98d1001e939016b368a9a7bec54e736d19659?x-bce-process=image/format,fauto/watermark,imaged2F0ZXIvYmFpa2UyNzI,g7,xp5,yp5,P20/resize,mlfit,limit1,h1080",
-    "referenceUrls": [
-      "https://bkimg.cdn.bcebos.com/pic/7dd98d1001e939016b368a9a7bec54e736d19659?x-bce-process=image/format,fauto/watermark,imaged2F0ZXIvYmFpa2UyNzI,g7,xp5,yp5,P20/resize,mlfit,limit1,h1080"
-    ],
-    "referenceImages": [],
-    "referenceThumbnails": [],
-    "visualDirection": "金鱼服或其他服饰都可",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-10-01T08:56:00Z",
-    "updatedAt": "2026-10-01T08:56:00Z",
-    "closedAt": null,
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/229"
   },
   {
     "number": 223,
@@ -577,6 +537,46 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/91"
+  },
+  {
+    "number": 229,
+    "character": "楪祈",
+    "characterDetails": "楪祈",
+    "franchise": "罪恶王冠",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://bkimg.cdn.bcebos.com/pic/7dd98d1001e939016b368a9a7bec54e736d19659?x-bce-process=image/format,fauto/watermark,imaged2F0ZXIvYmFpa2UyNzI,g7,xp5,yp5,P20/resize,mlfit,limit1,h1080",
+    "referenceUrls": [
+      "https://bkimg.cdn.bcebos.com/pic/7dd98d1001e939016b368a9a7bec54e736d19659?x-bce-process=image/format,fauto/watermark,imaged2F0ZXIvYmFpa2UyNzI,g7,xp5,yp5,P20/resize,mlfit,limit1,h1080"
+    ],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "金鱼服或其他服饰都可",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: completed",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-01T08:56:00Z",
+    "updatedAt": "2026-10-08T08:55:08Z",
+    "closedAt": "2026-10-08T08:54:24Z",
+    "comments": 2,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/229"
   },
   {
     "number": 242,
