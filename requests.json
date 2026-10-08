@@ -1,45 +1,5 @@
 [
   {
-    "number": 249,
-    "character": "Peach cat Mochi Peach",
-    "characterDetails": "Peach cat Mochi Peach",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://tenor.com/view/peach-goma-playful-to-battle-ride-gif-10540785109725818367%20;%20https://tenor.com/view/%D9%88%D8%A7%D9%88-gif-23287188%20;%20%20https://apps.apple.com/us/app/mochi-peach-cat/id6499200266",
-    "referenceUrls": [
-      "https://tenor.com/view/peach-goma-playful-to-battle-ride-gif-10540785109725818367%20;%20https://tenor.com/view/%D9%88%D8%A7%D9%88-gif-23287188%20;%20%20https://apps.apple.com/us/app/mochi-peach-cat/id6499200266"
-    ],
-    "referenceImages": [],
-    "referenceThumbnails": [],
-    "visualDirection": "Peach (the white cat from Peach and Goma) is a richly layered character whose personality has been fleshed out across fan communities and the creator's own descriptions.\n\nCore Temperament\nPeach is best described as playful, affectionate, and mischievous — a vibrant, adventurous spirit who is always ready for an adventure, whether it's chasing butterflies or surprising Goma with spontaneous affectionate antics.  She embodies warmth and joy, bringing energy and light to everyone around her.  Her large, expressive eyes sparkle with curiosity, and she has a heart full of love that she never misses a chance to show. Peach is basically:\n\nMischievous — loves pranking Goma, getting into silly trouble\nPlayful & energetic — always bouncing around, can't sit still\nAffectionate — very cuddly and sweet, always showing love\nCurious — drawn to everything new, can't resist exploring\nA little dramatic — overreacts in a cute way, big expressive face\nSo think of her as the chaotic, sweet, clingy one in",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-10-06T13:41:28Z",
-    "updatedAt": "2026-10-08T09:32:08Z",
-    "closedAt": null,
-    "comments": 1,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/249"
-  },
-  {
     "number": 239,
     "character": "狸花猫",
     "characterDetails": "狸花猫",
@@ -493,6 +453,46 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/91"
+  },
+  {
+    "number": 249,
+    "character": "Peach cat Mochi Peach",
+    "characterDetails": "Peach cat Mochi Peach",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://tenor.com/view/peach-goma-playful-to-battle-ride-gif-10540785109725818367%20;%20https://tenor.com/view/%D9%88%D8%A7%D9%88-gif-23287188%20;%20%20https://apps.apple.com/us/app/mochi-peach-cat/id6499200266",
+    "referenceUrls": [
+      "https://tenor.com/view/peach-goma-playful-to-battle-ride-gif-10540785109725818367%20;%20https://tenor.com/view/%D9%88%D8%A7%D9%88-gif-23287188%20;%20%20https://apps.apple.com/us/app/mochi-peach-cat/id6499200266"
+    ],
+    "referenceImages": [],
+    "referenceThumbnails": [],
+    "visualDirection": "Peach (the white cat from Peach and Goma) is a richly layered character whose personality has been fleshed out across fan communities and the creator's own descriptions.\n\nCore Temperament\nPeach is best described as playful, affectionate, and mischievous — a vibrant, adventurous spirit who is always ready for an adventure, whether it's chasing butterflies or surprising Goma with spontaneous affectionate antics.  She embodies warmth and joy, bringing energy and light to everyone around her.  Her large, expressive eyes sparkle with curiosity, and she has a heart full of love that she never misses a chance to show. Peach is basically:\n\nMischievous — loves pranking Goma, getting into silly trouble\nPlayful & energetic — always bouncing around, can't sit still\nAffectionate — very cuddly and sweet, always showing love\nCurious — drawn to everything new, can't resist exploring\nA little dramatic — overreacts in a cute way, big expressive face\nSo think of her as the chaotic, sweet, clingy one in",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: completed",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-06T13:41:28Z",
+    "updatedAt": "2026-10-08T09:37:45Z",
+    "closedAt": "2026-10-08T09:37:03Z",
+    "comments": 3,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/249"
   },
   {
     "number": 246,
