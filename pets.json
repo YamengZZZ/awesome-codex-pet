@@ -1852,6 +1852,20 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "peach-cat--legeling",
+    "name": "Peach Cat",
+    "localized_names": { "en": "Peach Cat", "zh": "蜜桃猫" },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Others",
+    "canonical_key": "peach-and-goma/peach",
+    "collections": [],
+    "license": "Non-commercial use only. Independently AI-generated unofficial fan art. Character design: 不觉晓晓 / Bu Jue Xiao Xiao. Peach and Goma character rights remain with their respective owners. No third-party reference pixels are redistributed. No endorsement or license to the underlying character or third-party reference artwork is implied.",
+    "description": "An independently AI-generated white Peach cat with playful sticker-style task animations and sixteen clockwise look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "phoebe--chenxin-dlut",
     "name": "Phoebe",
     "localized_names": { "en": "Phoebe", "zh": "菲比" },
