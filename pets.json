@@ -910,6 +910,21 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "gpt-dragon-girl--legeling",
+    "name": "GPT Dragon Girl",
+    "localized_names": { "en": "GPT Dragon Girl", "zh": "GPT龙娘" },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Others",
+    "canonical_key": "original/zipzippipe/gpt-dragon-girl",
+    "variant_note": "legeling independently generated this white-and-lavender winged chibi V2 edition, visually approved on 2026-10-07. It uses its own nine action sequences and sixteen look poses; it is distinct from tenghuan123's GPT Dragon Girl edition in PR #253 and orient37's homewear Codex Dragon Girl in PR #252.",
+    "collections": [],
+    "license": "Non-commercial use only. Independently AI-generated unofficial fan art. Character design: ZipZipPipe. Unofficial fan interpretation; character and brand rights remain with their respective owners. No source pixels are copied; this statement does not grant rights to the original character or third-party reference artwork.",
+    "description": "An independently AI-generated chibi interpretation of ZipZipPipe’s white-and-lavender winged dragon girl with nine task animations and sixteen clockwise look directions.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "gpt-muse--opask",
     "name": "GPT-muse",
     "author": "opask",
