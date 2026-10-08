@@ -877,6 +877,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "inori-yuzuriha--legeling": {
+      "name": "Inori Yuzuriha",
+      "localizedNames": { "en": "Inori Yuzuriha", "zh": "楪祈" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "bb99be6a519e0517220a590c88585f75ceb4cd907d4e0e6d2ee193947447c5ff",
+      "petJsonBytes": 263,
+      "spritesheetSha256": "e311ea9c4c8be458906ab3fc180043eb81b8b82b698365ddc3735540d2a519d8",
+      "spritesheetBytes": 2240482,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "iris--yau-427": {
       "name": "Iris",
       "spriteVersionNumber": 2,
