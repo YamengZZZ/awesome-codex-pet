@@ -31,9 +31,10 @@
     "test:install": "node --test scripts/test/install-pet.test.mjs scripts/test/cli.test.mjs",
     "test:package": "node --test scripts/test/package-slim.test.mjs",
     "test:request-links": "node --test scripts/test/request-linking.test.mjs",
+    "test:snapshots": "node --test scripts/test/publish-generated-snapshot.test.mjs",
     "validate": "node scripts/validate-pets.mjs --require-generated-assets",
     "validate:site": "node scripts/validate-pets.mjs --require-site-assets",
-    "validate:pr": "npm run test:duplicates && npm run test:install && npm run test:package && npm run test:request-links && node scripts/validate-pets.mjs"
+    "validate:pr": "npm run test:duplicates && npm run test:install && npm run test:package && npm run test:request-links && npm run test:snapshots && node scripts/validate-pets.mjs"
   },
   "devDependencies": {
     "prettier": "^3.5.3"
